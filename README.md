@@ -35,5 +35,7 @@ worldport_rank.xlsx: Excel file containing data on world port rankings.
 script.R: R script for data loading, exploration, visualization, and map creation.
 port.gif: Animated GIF showing the changes in trade volume of world ports from 2011 to 2020.
 Credits:
-This project was created by Furkan Ozdemir as part of Data . Special thanks to the creators of ggplot2, dplyr, readxl, ggmap, and magick packages for their invaluable contributions to the R community.
+This project was created by Furkan Ozdemir as part of Introduction to Computational Statistics and Data Analysis. 
+
+Special thanks to the creators of ggplot2, dplyr, readxl, ggmap, and magick packages for their invaluable contributions to the R community.
 
